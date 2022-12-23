@@ -1,4 +1,6 @@
 # Digital System Design Final Project : CNN Accelerator
 
 - Source file only
-- All project files are uploaded at SNUmail onedrive
+- Layers are at '''modules''' folder
+
+* All project files are uploaded at SNUmail onedrive
