@@ -7,4 +7,4 @@
 - ```modules``` : Directory containing the HW modules (main part)
 - ```tb``` : Directory containing verilog codes for simulation
 
-* All project files are uploaded at SNUmail onedrive
+* All project files are uploaded at SNU student account onedrive
