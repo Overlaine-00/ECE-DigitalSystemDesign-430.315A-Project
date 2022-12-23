@@ -6,5 +6,5 @@
   - ```ddr<2, 3>_mig``` : Directory containing DDR mig files
   - ```modules``` : Directory containing the HW modules (main part)
   - ```tb``` : Directory containing verilog codes for simulation
-
-** All project files are uploaded at SNU student account onedrive
+- - -
+__All project files are uploaded at SNU student account onedrive__
