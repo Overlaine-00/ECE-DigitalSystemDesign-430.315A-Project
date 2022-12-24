@@ -1,10 +1,10 @@
 # Digital System Design Final Project : CNN Accelerator
 
-### Versions
+## Versions
 Vivado 2021.1 ML edition (on [here](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2021-1.html))
 
 
-### Constitution
+## Constitution
 Source file only  
   - ```common_ip``` : Directory containing IP files
   - ```constraints``` : Directory containing constraint files
