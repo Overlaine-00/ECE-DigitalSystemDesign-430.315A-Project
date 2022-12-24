@@ -5,11 +5,10 @@ Vivado 2021.1 ML edition (on [here](https://www.xilinx.com/support/download/inde
 
 
 ### Constitution
-Source file only  
+Source file only. All project files are uploaded at SNU student account onedrive (private).
   - ```common_ip``` : Directory containing IP files
   - ```constraints``` : Directory containing constraint files
   - ```ddr<2, 3>_mig``` : Directory containing DDR mig files
   - ```modules``` : Directory containing the HW modules (main part)
   - ```tb``` : Directory containing verilog codes for simulation
-  
-All project files are uploaded at SNU student account onedrive.
+ 
